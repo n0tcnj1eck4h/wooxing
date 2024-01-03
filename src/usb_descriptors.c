@@ -39,8 +39,8 @@
   (0x4000 | _PID_MAP(CDC, 0) | _PID_MAP(MSC, 1) | _PID_MAP(HID, 2) |           \
    _PID_MAP(MIDI, 3) | _PID_MAP(VENDOR, 4))
 
-#define USB_VID 0xCafe
-#define USB_BCD 0x0200
+#define USB_VID 0x7272
+#define USB_BCD 0xDADa
 
 //--------------------------------------------------------------------+
 // Device Descriptors
